@@ -1,0 +1,19 @@
+{
+  "go.buildOnSave": false,
+  "go.lintOnSave": true,
+  "go.vetOnSave": true,
+  "go.buildTags": "",
+  "go.buildFlags": [],
+  "go.lintTool": "golint",
+  "go.lintFlags": [],
+  "go.vetFlags": [],
+  "go.coverOnSave": false,
+  "[go]":{
+    "editor.formatOnSave": true
+  },
+  "go.formatTool": "goreturns",
+  "go.formatFlags": [],
+  "go.goroot": "/usr/local/go",
+  "go.gopath": "/Users/m1schaiwat/go",
+  "go.gocodeAutoBuild": false
+}
